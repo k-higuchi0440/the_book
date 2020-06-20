@@ -42,5 +42,9 @@ path = "src/08_collections/main.rs"
 name = "9"
 path = "src/09_error_handling/main.rs"
 
+[[bin]]
+name = "10"
+path = "src/10_trait/main.rs"
+
 [dependencies]
 rand = "0.6.0"
