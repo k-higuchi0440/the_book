@@ -14,5 +14,9 @@ path = "src/01_hello_world/main.rs"
 name = "2"
 path = "src/02_guessing_game/main.rs"
 
+[[bin]]
+name = "3"
+path = "src/03_common_concepts/main.rs"
+
 [dependencies]
 rand = "0.6.0"
