@@ -22,5 +22,9 @@ path = "src/03_common_concepts/main.rs"
 name = "4"
 path = "src/04_ownership/main.rs"
 
+[[bin]]
+name = "5"
+path = "src/05_struct/main.rs"
+
 [dependencies]
 rand = "0.6.0"
