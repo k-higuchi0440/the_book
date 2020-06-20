@@ -34,5 +34,9 @@ path = "src/06_enums/main.rs"
 name = "7"
 path = "src/07_package/main.rs"
 
+[[bin]]
+name = "8"
+path = "src/08_collections/main.rs"
+
 [dependencies]
 rand = "0.6.0"
