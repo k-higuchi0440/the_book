@@ -10,4 +10,9 @@ edition = "2018"
 name = "1"
 path = "src/01_hello_world/main.rs"
 
+[[bin]]
+name = "2"
+path = "src/02_guessing_game/main.rs"
+
 [dependencies]
+rand = "0.6.0"
