@@ -54,5 +54,9 @@ path = "src/12_minigrep/main.rs"
 name = "13"
 path = "src/13_functional_features/main.rs"
 
+[[bin]]
+name = "15"
+path = "src/15_smart_pointer/main.rs"
+
 [dependencies]
 rand = "0.6.0"
