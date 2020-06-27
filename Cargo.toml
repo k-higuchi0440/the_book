@@ -66,5 +66,9 @@ path = "src/16_fearless_concurrency/main.rs"
 name = "17"
 path = "src/17_oop_features/main.rs"
 
+[[bin]]
+name = "18"
+path = "src/18_pattern_match/main.rs"
+
 [dependencies]
 rand = "0.6.0"
